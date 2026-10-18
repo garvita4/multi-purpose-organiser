@@ -1,8 +1,8 @@
 # Multipurpose Modular Art Supplies & Desk Organizer
-![Final Cad view](Images/FINAL1.png)
-![Final Cad view](Images/FINAL2.png)
-![Final Cad view](Images/FINAL3.png)
-![Final Cad view](Images/FINAL4.png)
+![Final Cad view](images/FINAL1.png)
+![Final Cad view](images/FINAL2.png)
+![Final Cad view](images/FINAL3.png)
+![Final Cad view](images/FINAL4.png)
 
 This is a custom multipurpose desk organizer I designed to keep all of my art supplies, drawing tools, and stationery neatly organized in one modular setup.
 
@@ -35,7 +35,7 @@ The main compartment is split into two halves for easier printing: `MAINBOX(left
 * Apply super glue to the interlocking surfaces and alignment pins, then press `MAINBOX(left)` and `MAINBOX(right)` firmly together until fully seated.
 
 
-![Main Box Left and Right Halves](Images/MAINBOX.png)
+![Main Box Left and Right Halves](images/MAINBOX.png)
 
 #### 2. Install Side Magnets and Front Heat-Set Inserts
 * **Side Magnets:** There are 4 holes in the corners of both the left and right outer walls. Glue **4mm × 2mm neodymium magnets** into these holes. These allow you to magnetically attach `BOX2` or future modular expansions.
@@ -48,7 +48,7 @@ The main compartment houses two drawers (a small top drawer and a large bottom d
 * **Bottom Large Drawer:** Print `MAINBOXBIGDRAWER(left)` and `MAINBOXBIGDRAWER(right)`. Glue the left and right halves together using the alignment pins and holes, just like you did for the main body.
 
 
-![Main Box Big Drawer Halves](Images/MAINBOXBIGDRAWER.png)
+![Main Box Big Drawer Halves](images/MAINBOXBIGDRAWER.png)
 
 * Once the glue dries, slide the assembled large drawer into the bottom grooves of the main compartment.
 
@@ -56,7 +56,7 @@ The main compartment houses two drawers (a small top drawer and a large bottom d
 * Print `MAINBOXCOVER(bottom)` and `MAINBOXCOVER(top)`.
 * Align the covers over the front of the main compartment and tighten them into the M3 brass heat-set inserts using **M3 screws** to secure the drawers in place.
 
-![Main Box Bottom Cover](Images/MAINBOXCOVERBOTTOM.png)
+![Main Box Bottom Cover](images/MAINBOXCOVERBOTTOM.png)
 
 #### 5. Assemble the Rotating Screwdriver & Stationery Holders
 The top of the main compartment supports two rotating organizer units (one large single cylinder and one dual small cylinder unit).
@@ -69,11 +69,11 @@ The top of the main compartment supports two rotating organizer units (one large
 * Insert **6000ZZ ball bearings** into the top and bottom recesses of the cylindrical bodies, and press them onto their respective rods on the base plates.
 * Flip the bases over—you will find magnet holes on the underside of both the big and small rotating bases. Glue **4mm × 2mm magnets** into these bottom holes.
 
-![Rotating Big Cylinder](Images/ROTATINGBIG.png)
+![Rotating Big Cylinder](images/ROTATINGBIG.png)
 
 * Next, glue matching **4mm × 2mm magnets** into the top surface of the main compartment (making sure the magnet polarities attract) and place the rotating holders on top as shown below.
 
-![Rotating Big Attachment on Main Box](Images/ROATIGNBIGATTACHEMENT.png)
+![Rotating Big Attachment on Main Box](images/ROATIGNBIGATTACHEMENT.png)
 
 #### 6. Assemble the Hinged Lid Compartments
 The right side of the main compartment has two top-facing storage sections with flip-up lids.
@@ -87,9 +87,9 @@ The right side of the main compartment has two top-facing storage sections with 
 
 > ⚠️ **CAUTION:** Apply glue carefully to the outer lock seats only. **Make sure no glue gets onto the lid pins so the hinges can rotate freely!**
 
-![Hinge Cover Installed](Images/HINGECOVER.png)
-![Hinge Lock Left Detail](Images/HINGELOCKLEFT.png)
-![Hinge Lock Middle Detail](Images/HINGELOCKMIDDLE.png)
+![Hinge Cover Installed](images/HINGECOVER.png)
+![Hinge Lock Left Detail](images/HINGELOCKLEFT.png)
+![Hinge Lock Middle Detail](images/HINGELOCKMIDDLE.png)
 
 ### Part 2: Assembling the Secondary Compartment (`BOX2`)
 
@@ -109,7 +109,7 @@ The right side of the main compartment has two top-facing storage sections with 
 * Slide both completed drawers into the vertical slots of `BOX2`.
 
 <!-- /// images -->
-![Box 2 Drawer Halves](Images/BOX2DRAWER.png)
+![Box 2 Drawer Halves](images/BOX2DRAWER.png)
 
 #### 3. Install Magnets, Heat-Set Inserts, and the Front Cover
 * Glue **4mm × 2mm neodymium magnets** into the corner holes on the left and right outer walls of `BOX2` (check polarity so it snaps onto `MAINBOX`).
