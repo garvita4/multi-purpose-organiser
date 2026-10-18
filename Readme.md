@@ -98,7 +98,7 @@ The right side of the main compartment has two top-facing storage sections with 
 * Apply super glue to the interlocking alignment pins and holes, and press both halves together just like the main compartment.
 
 <!-- /// images -->
-![Box 2 Left and Right Halves](Images/BOX2.png)
+![Box 2 Left and Right Halves](images/BOX2.png)
 
 #### 2. Assemble the Divided Component Drawers
 `BOX2` holds two identical vertical multi-grid drawers, and each drawer is printed in two halves.
