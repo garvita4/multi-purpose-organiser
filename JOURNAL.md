@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/cmv985js501b901r9shhi05jy)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> an organizer for your desk
+> an organizer for your desk with rotating holders and many compartments in order to keep your place non messy
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
